@@ -1,5 +1,6 @@
 # FinanceTracker
 📌 Personal Finance Management System
+Name: Huynh Ba Khang
 
 Final Exam – MongoDB & Streamlit
 
